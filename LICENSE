@@ -7,12 +7,12 @@
 ---
 
 ## الشروط (Terms of Use)
-
+Q
 ### 🇸🇦 عربي
 هذا السكربت مملوك لـ 93q_f او 93q-f.
 
 - هذا السكربت مشوَّش ومخصص للاستخدام الشخصي فقط.
-- يمنع منعًا باتًا فك التشويش أو التعديل أو إعادة الرفع أو البيع.
+- يمنع منعًا باتًا فك التشويش أو التعديل أو البيع.
 - أي استخدام بدون إذن يُعد انتهاكًا للحقوق.
   
 
@@ -24,7 +24,7 @@
 This script is owned by 93q_f or 93q-f.
 
 - This script is obfuscated and intended for personal use only.
-- You are strictly NOT allowed to deobfuscate, modify, re-upload, or sell the script.
+- You are strictly NOT allowed to deobfuscate, modify, or sell the script.
 - Any unauthorized use is considered a violation of rights.
 
 
@@ -32,6 +32,7 @@ This script is owned by 93q_f or 93q-f.
 
 ---
 
-Owner: 93q_f  
+Owner: 93q_f or 93q-f 
+
 Instagram: 93q_f  
 GitHub: 93q_f or 93q-f
